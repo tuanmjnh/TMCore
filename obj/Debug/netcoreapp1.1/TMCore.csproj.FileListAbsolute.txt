@@ -1,0 +1,14 @@
+D:\Applications\TMCore\bin\Debug\netcoreapp1.1\TMCore.deps.json
+D:\Applications\TMCore\bin\Debug\netcoreapp1.1\TMCore.dll
+D:\Applications\TMCore\bin\Debug\netcoreapp1.1\TMCore.pdb
+D:\Applications\TMCore\obj\Debug\netcoreapp1.1\TMCore.csprojResolveAssemblyReference.cache
+D:\Applications\TMCore\obj\Debug\netcoreapp1.1\TMCore.AssemblyInfo.cs
+D:\Applications\TMCore\obj\Debug\netcoreapp1.1\TMCore.dll
+D:\Applications\TMCore\obj\Debug\netcoreapp1.1\TMCore.pdb
+D:\Appliations\TMCore\bin\Debug\netcoreapp1.1\TMCore.deps.json
+D:\Appliations\TMCore\bin\Debug\netcoreapp1.1\TMCore.dll
+D:\Appliations\TMCore\bin\Debug\netcoreapp1.1\TMCore.pdb
+D:\Appliations\TMCore\obj\Debug\netcoreapp1.1\TMCore.csprojResolveAssemblyReference.cache
+D:\Appliations\TMCore\obj\Debug\netcoreapp1.1\TMCore.AssemblyInfo.cs
+D:\Appliations\TMCore\obj\Debug\netcoreapp1.1\TMCore.dll
+D:\Appliations\TMCore\obj\Debug\netcoreapp1.1\TMCore.pdb

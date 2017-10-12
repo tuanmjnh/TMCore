@@ -1,0 +1,33 @@
+﻿Compare
+data-val-equalto="Error message"
+data-val-equalto-other="The name of the other field"
+
+CreditCard
+data-val-creditcard="Error message"
+
+EmailAddress
+data-val-email="Error message"
+
+MaxLength
+data-val-maxlength="Error message"
+data-val-maxlength-max="Maximum length (e.g. 5)"
+
+MinLength
+data-val-minlength="Error message"
+data-val-minlength-min="Minimum length (e.g. 2)"
+
+Range
+data-val-range="Error message"
+data-val-range-max="Max value"
+data-val-range-min="Min value"
+
+RegularExpression
+data-val-regex="Error message"
+data-val-regex-pattern="The regular expression (e.g. ^[a-z]+$)"
+
+Required
+data-val-required="Error message"
+
+StringLength
+data-val-length="Error message"
+data-val-length-max="Maximum number of characters"

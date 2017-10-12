@@ -1,0 +1,9 @@
+D:\Appliations\TMCore\bin\Debug\netcoreapp2.0\TMCore.deps.json
+D:\Appliations\TMCore\bin\Debug\netcoreapp2.0\TMCore.dll
+D:\Appliations\TMCore\bin\Debug\netcoreapp2.0\TMCore.pdb
+D:\Appliations\TMCore\obj\Debug\netcoreapp2.0\TMCore.csprojResolveAssemblyReference.cache
+D:\Appliations\TMCore\obj\Debug\netcoreapp2.0\TMCore.csproj.CoreCompileInputs.cache
+D:\Appliations\TMCore\obj\Debug\netcoreapp2.0\TMCore.AssemblyInfoInputs.cache
+D:\Appliations\TMCore\obj\Debug\netcoreapp2.0\TMCore.AssemblyInfo.cs
+D:\Appliations\TMCore\obj\Debug\netcoreapp2.0\TMCore.dll
+D:\Appliations\TMCore\obj\Debug\netcoreapp2.0\TMCore.pdb
