@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
 using System;
 
 namespace TM.Helper
@@ -76,6 +77,14 @@ namespace TM.Helper
             get
             {
                 return Action.RouteData.Values["action"].ToString();
+            }
+        }
+        //AppSettings
+        public static IConfiguration configuration {
+            get
+            {
+                var configuration = services.GetService(typeof(IConfiguration)) as IConfiguration;
+                return configuration;
             }
         }
     }

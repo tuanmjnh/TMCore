@@ -56,4 +56,8 @@
         public const string Edit = "PUT";
         public const string Delete = "DELETE";
     }
+    public class Settings
+    {
+        public string[] modules = new[] { "modules", "default" };
+    }
 }
