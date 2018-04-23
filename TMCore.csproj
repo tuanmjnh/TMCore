@@ -20,6 +20,7 @@
     <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="2.0.0" />
     <PackageReference Include="NETCore.DapperKit" Version="2.0.0" />
     <PackageReference Include="Npgsql" Version="3.2.5" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.12.0-beta2" />
     <PackageReference Include="System.IO.FileSystem.AccessControl" Version="4.5.0-preview1-25914-04" />
   </ItemGroup>
 </Project>
