@@ -12715,30 +12715,46 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\TMVN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+=======
+    "/home/tuanmjnh/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+>>>>>>> b9a3c47b5c0ff1fdd1540daf41daea79ae14e4d3
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Applications\\TMCore\\TMCore.csproj",
       "projectName": "TMCore",
       "projectPath": "D:\\Applications\\TMCore\\TMCore.csproj",
       "packagesPath": "C:\\Users\\TMVN\\.nuget\\packages\\",
       "outputPath": "D:\\Applications\\TMCore\\obj\\",
+=======
+      "projectUniqueName": "/media/tuanmjnh/Dulieu/Appliations/TMCore/TMCore.csproj",
+      "projectName": "TMCore",
+      "projectPath": "/media/tuanmjnh/Dulieu/Appliations/TMCore/TMCore.csproj",
+      "packagesPath": "/home/tuanmjnh/.nuget/packages/",
+      "outputPath": "/media/tuanmjnh/Dulieu/Appliations/TMCore/obj/",
+>>>>>>> b9a3c47b5c0ff1fdd1540daf41daea79ae14e4d3
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\TMVN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+        "/home/tuanmjnh/.nuget/NuGet/NuGet.Config"
+>>>>>>> b9a3c47b5c0ff1fdd1540daf41daea79ae14e4d3
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
