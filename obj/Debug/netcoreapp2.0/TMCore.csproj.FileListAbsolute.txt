@@ -11,7 +11,6 @@ D:\Appliations\TMCore\obj\Debug\netcoreapp2.0\TMCore.pdb
 D:\Applications\TMCore\bin\Debug\netcoreapp2.0\TMCore.deps.json
 D:\Applications\TMCore\bin\Debug\netcoreapp2.0\TMCore.dll
 D:\Applications\TMCore\bin\Debug\netcoreapp2.0\TMCore.pdb
-D:\Applications\TMCore\obj\Debug\netcoreapp2.0\TMCore.csprojResolveAssemblyReference.cache
 D:\Applications\TMCore\obj\Debug\netcoreapp2.0\TMCore.csproj.CoreCompileInputs.cache
 D:\Applications\TMCore\obj\Debug\netcoreapp2.0\TMCore.AssemblyInfoInputs.cache
 D:\Applications\TMCore\obj\Debug\netcoreapp2.0\TMCore.AssemblyInfo.cs
@@ -37,3 +36,4 @@ D:/Appliations/TMCore/obj/Debug/netcoreapp2.0/TMCore.pdb
 /media/tuanmjnh/Dulieu/Appliations/TMCore/obj/Debug/netcoreapp2.0/TMCore.dll
 /media/tuanmjnh/Dulieu/Appliations/TMCore/obj/Debug/netcoreapp2.0/TMCore.pdb
 >>>>>>> b9a3c47b5c0ff1fdd1540daf41daea79ae14e4d3
+D:\Applications\TMCore\obj\Debug\netcoreapp2.0\TMCore.csprojAssemblyReference.cache
